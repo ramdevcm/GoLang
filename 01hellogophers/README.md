@@ -1,5 +1,4 @@
-commands used:
-    go run main.go
+# commands used:
+    go run main.go 
     go env GOPATH
     go help
-    
